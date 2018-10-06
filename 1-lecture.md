@@ -2,6 +2,7 @@
 
 ## 1.1. Cases and Power Supplies
 - Cases
+![case]()
 - Power Supplies
 - Power Supply Wattage
   - P = V x A #( 1 chieu)
@@ -34,6 +35,8 @@ Chon CPU:
     - O nho di dong
     - USB, ...
     - Dia mem (bao phu boi sector)
+    ![dia mem](download.png)
+    
 
 Chu y:
 - chip M: tiet kiem dien,
