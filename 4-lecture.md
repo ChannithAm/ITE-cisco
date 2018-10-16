@@ -3,9 +3,9 @@
 
 ## 4.1. Operating System
 
-=============================
+```
 core <--> OS <--> User
-=============================
+```
 
 Windows : 2
   - Desktop OS (client): 
